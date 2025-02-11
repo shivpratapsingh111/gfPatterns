@@ -1,0 +1,6 @@
+{
+    "engine": "ag",
+    "flags": "-ai",
+    "flags": "--nocolor",
+    "pattern": "https?://[^?]+\\.(?:backup|bak|bashrc|db|env|git|kdbx|ldb|mdb|old|ovpn|sql|sqlite|swo|swp)(?:\\?[^/ \\t]*)?(?:$|[ \\t])"
+}

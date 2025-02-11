@@ -1,0 +1,6 @@
+{
+    "engine": "ag",
+    "flags": "-ai",
+    "flags": "--nocolor",
+    "pattern": "https?://[^?]+\\.(?:a|apk|app|AppImage|bin|chunk|cmd|dat|db|deb|dll|dmg|dylib|efi|elf|exe|fw|gpt|hex|img|iso|ko|mdb|msi|ndb|o|out|pak|pkg|rpm|sav|so|sqlite|sys|vhd|vmdk|vmlinuz)(?:\\?[^/ \\t]*)?(?:$|[ \\t])"
+}

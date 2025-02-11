@@ -1,0 +1,6 @@
+{
+    "engine": "ag",
+    "flags": "-ai",
+    "flags": "--nocolor",
+    "pattern": "https?://[^?]+\\.(?:abw|azw|djvu|doc|docm|docx|dotx|epub|fb2|mobi|numbers|odm|odp|ods|odt|pages|pdf|potx|ppsx|ppt|pptm|pptx|tex|wpd|wps|xls|xlsm|xlsx|xltx|xps)(?:\\?[^/ \\t]*)?(?:$|[ \\t])"
+}

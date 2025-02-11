@@ -1,0 +1,6 @@
+{
+    "engine": "ag",
+    "flags": "-ai",
+    "flags": "--nocolor",
+    "pattern": "https?://[^?]+\\.(?:action|actionscript|agda|asp|aspx|awk|bash|bat|bash_profile|bashrc|c|cgi|cjsx|class|clj|cljs|cmake|coffee|cpp|cs|css|cu|d|dart|do|dtml|erb|f90|for|fs|glsl|go|graphql|groovy|h|hbs|hlsl|hpp|htm|html|ini|jade|java|js|jsm|jsp|jsx|kt|liquid|lisp|lua|luna|m|makefile|mako|mjs|ml|mm|mustache|nim|opencl|perl|php|pike|pl|ps1|pug|py|r|rake|rb|rs|rst|sass|scala|scss|sed|sh|shy|sol|solidity|ss|svelte|swift|tcl|ts|tsx|turing|twig|vala|vb|vba|vbs|verilog|vhdl|vue|yaml|zprofile|zsh|zshrc)(?:\\?[^/ \\t]*)?(?:$|[ \\t])"
+}

@@ -1,0 +1,6 @@
+{
+    "engine": "ag",
+    "flags": "-ai",
+    "flags": "--nocolor",
+    "pattern": "https?://[^?]+\\.(?:asc|cer|crt|csr|der|gpg|jceks|jks|key|keystore|p12|p7b|p7c|p8|pem|pfx|pgp|pkcs8|pubring.gpg|secring.gpg|sig|spc|v1)(?:\\?[^/ \\t]*)?(?:$|[ \\t])"
+}

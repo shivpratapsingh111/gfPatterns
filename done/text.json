@@ -1,0 +1,6 @@
+{
+    "engine": "ag",
+    "flags": "-ai",
+    "flags": "--nocolor",
+    "pattern": "https?://[^?]+\\.(?:bashrc|cfg|conf|config|csv|desktop|docker-compose.yaml|docker-compose.yml|dockerfile|dockerignore|editorconfig|eslint|eslintignore|eslintrc|gitattributes|git|gitconfig|gitignore|gitlab-ci.yml|gruntfile|htaccess|htpasswd|ini|json|log|md|nginx|npmignore|npmrc|plist|prettierrc|properties|rmd|rtf|stylelintrc|terraformrc|text|toml|travis.yml|tsv|txt|vimrc|wsdl|xml|yaml|yml)(?:\\?[^/ \\t]*)?(?:$|[ \\t])"
+}

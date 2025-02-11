@@ -1,0 +1,6 @@
+{
+    "engine": "ag",
+    "flags": "-ai",
+    "flags": "--nocolor",
+    "pattern": "https?://[^?]+\\.(?:7z|ace|alz|apk|ar|archive|bz|bz2|cab|cpio|gz|iso|lz|lzma|p7z|pax|rar|tar|tar.bz2|tar.gz|tar.gz.xz|tar.xz|tar.xz.gz|tgz|xz|zip|zoo|zst)(?:\\?[^/ \\t]*)?(?:$|[ \\t])"
+}
