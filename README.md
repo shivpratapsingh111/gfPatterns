@@ -1,3 +1,9 @@
+# Ignore everything below separator
+
+### This has gf patterns done/extentions contains all patters to grep urls with certain extensions and done/secrets.json will grep secrets. ;)
+
+---
+
 ## For zip (Single Extension Only)
 
 - ### Pure Regex (**GREP** won't work here, Use `ag` [the_silver_searcher](https://github.com/ggreer/the_silver_searcher))
